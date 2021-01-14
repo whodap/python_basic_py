@@ -104,9 +104,6 @@ room1.clean()
 print(room1.status)
 print('end')
 
-#!/usr/bin/python
-# -*- coding: utf8 -*-
-# auth : https://blog.naver.com/hdh0926
 # 사용자 정의 모듈 임포트
 from module.item import Car
 
